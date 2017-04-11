@@ -117,6 +117,17 @@ mv .gitignoreDeploy .gitignore
 
 ## لینک‌ها
 
-* [درس بر روی مکتب خونه](https://plus.maktabkhooneh.org/course/2/chapters/#info)
-* [کلاینت پیاده شده برای سرور](https://github.com/hphamid/maktabkhoone-instagram)
+<div>
+<ul>
+<li>
+<a href="https://plus.maktabkhooneh.org/course/2/chapters/#info">
+ بر روی مکتب خونه
+</a>
+</li>
+<li>
+<a href="https://github.com/hphamid/maktabkhoone-instagram">
+کلاینت پیاده سازی شده بر روی اندروید
+</a>
+</li>
+</div>
 
