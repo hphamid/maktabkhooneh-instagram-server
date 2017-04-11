@@ -18,7 +18,7 @@
 برای اجرا کردن پروژه چه به صورت لوکال و یا بر روی سرورهای بکتوری لازم است که ابتدا در فایل src/config.json اطلاعات معلوم شده با <<>> را وارد کنید.
 </div>
 
-```
+```javascript
 //application specific config file
 let config = {};
 
@@ -43,12 +43,12 @@ module.exports = config;
 سپس باید دستورات زیر را در ترمینال وارد کنید:
 <div>
 
-```shell
-  cd /path/to/project/api
-  npm install
-  cd /path/to/project/src
-  cd ..
-  node preCompile.js
+```bash
+cd /path/to/project/api
+npm install
+cd /path/to/project/src
+cd ..
+node preCompile.js
 ```
 
 ## اجرا کردن به صورت لوکال
@@ -56,9 +56,9 @@ module.exports = config;
 برای اجرای کد بر روی کامپیوتر خود لازم است پس از اجرا کردن مراحل اولیه که پیش از این توضیح داده شده است باید دستور زیر را وارد کنید:
 </div>
 
-```shell
-  cd /path/to/project
-  node api/api.js
+```bash
+cd /path/to/project
+node api/api.js
 ```
 
 ## سرور
@@ -72,9 +72,9 @@ module.exports = config;
 در صورتی که این پروژه را با استفاده از دستور git clon دریافت کرده‌اید لازم است ابتدا فولدر .git را از پروژه حذف کنید. در لینوکس با استفاده از دستور زیر اینکار قابل انجام است:
 </div>
 
-```
-    cd /path/to/project
-    rm -rf .git
+```bash
+cd /path/to/project
+rm -rf .git
 ```
 
 <div dir="rtl">
@@ -93,10 +93,10 @@ module.exports = config;
 در این مرحله باید فایل .gitignore موجود را با .gitignoreDeploy جایگزین کنید. در لینوکس اینکار با دستور زیر قابل انجام است:
 </div>
 
-```
-    cd /path/to/project
-    mv .gitignore .gitignoreold
-    mv .gitignoreDeploy .gitignore
+```bash
+cd /path/to/project
+mv .gitignore .gitignoreold
+mv .gitignoreDeploy .gitignore
 ```
 
 ### مرحله سوم
@@ -117,5 +117,5 @@ module.exports = config;
 ## لینک‌ها
 
 * [درس بر روی مکتب خونه](https://plus.maktabkhooneh.org/course/2/chapters/#info)
-* [کلاینت پیاده شده برای سرور](https://github.com/hphamid/maktabkhooneh-instagram)
+* [کلاینت پیاده شده برای سرور](https://github.com/hphamid/maktabkhoone-instagram)
 
