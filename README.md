@@ -110,24 +110,13 @@ mv .gitignoreDeploy .gitignore
 </div>
 
 ### مرحله چهارم
-<div dir="rtl>
+<div dir="rtl">
 این مرحله مرحله پایانی پروژه است و باید اطلاعات اکانت گیت و لینک پروژه را بر روی پنل بکتوری معلوم کنید و با استفاده از امکان دریافت کد از گیت بکتوری کد خود را بر روی بکتوری منتقل کنید.
 </div>
 
 
 ## لینک‌ها
 
-<div>
-<ul>
-<li>
-<a href="https://plus.maktabkhooneh.org/course/2/chapters/#info">
- بر روی مکتب خونه
-</a>
-</li>
-<li>
-<a href="https://github.com/hphamid/maktabkhoone-instagram">
-کلاینت پیاده سازی شده بر روی اندروید
-</a>
-</li>
-</div>
+* [درس بر روی مکتب خونه](https://plus.maktabkhooneh.org/course/2/chapters/#info)
+* [کلاینت پیاده شده برای سرور](https://github.com/hphamid/maktabkhoone-instagram)
 
