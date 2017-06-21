@@ -92,7 +92,7 @@ JavaScriptLanguageHelper.prototype.toString = function (type, object, params) {
             break;
         default :
             console.log("there was no type");
-        
+
     }
     return toReturn;
 };

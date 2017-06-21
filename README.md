@@ -40,6 +40,7 @@ config.lambdaHeaders =
     };
 module.exports = config;
 ```
+
 <div dir="rtl">
 سپس باید دستورات زیر را در ترمینال وارد کنید:
 <div>
